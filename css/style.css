@@ -1,0 +1,177 @@
+* {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+}
+
+.header {
+    background-image: url('../images/donation5.jpg');
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    width: 90%;
+    height: 850px;
+    margin: 10px 50px;
+}
+
+.header h2 {
+
+    text-align: center;
+    padding: 200px 300px 0px 300px;
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.header p {
+    text-align: center;
+    padding: 0px 300px 0px 300px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.primary-bnt {
+    background-color: orangered;
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    padding: 18px;
+    border-radius: 5px;
+}
+
+.btn {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+.donate {
+    text-align: center;
+    margin-left: 410px;
+    margin-right: 410px;
+
+}
+
+.donate h2 {
+    font-size: 35px;
+    font-weight: 700px;
+}
+
+.donate p {
+    color: #757575;
+    margin-top: 0px;
+}
+
+.donate-tk {
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    align-items: center;
+    color: #757575;
+}
+
+.btn-tk {
+    border: 1px solid orangered;
+    padding: 20px;
+    color: orangered;
+}
+
+.donate-plan {
+    padding-top: 100px;
+    text-align: center;
+    padding-left: 310px;
+    padding-right: 310px;
+}
+
+.donate-blog {
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    gap: 100px;
+}
+
+.donate-paln h2 {
+    font-size: 30px;
+    font-weight: 800px;
+}
+
+.donate-blog img {
+    width: 50px;
+    height: 40px;
+}
+
+.donate-blog p {
+    color: #757575;
+    padding-bottom: 100px;
+}
+
+.banar {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 250px;
+    gap: 40px;
+    padding-bottom: 50px;
+
+}
+
+.banar p {
+    color: #757575;
+    padding-right: 180px;
+    padding-bottom: 10px;
+}
+
+.banar img {
+    width: 380px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.updates {
+    text-align: center;
+    padding-bottom: 100px
+}
+
+.updates h2 {
+    font-size: 30px;
+    font-weight: 800px;
+}
+
+.updates p {
+    padding: 0 400px;
+    color: #757575;
+}
+
+.bnt-email {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+
+
+.bnt-email input {
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #afafaf;
+    color: #f7f3f3;
+
+}
+
+.developar {
+    text-align: center;
+    padding: 80px 0px;
+    font-size: 12px;
+    color: #757575;
+}
+
+.developar-sub {
+    color: #9600FF;
+}
+
+a {
+    text-decoration: none;
+    color: #757575;
+}
